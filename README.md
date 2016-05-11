@@ -1,0 +1,2 @@
+# MAXI
+Responsive HTML Template
